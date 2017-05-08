@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a19273fc11dd0084eae1a9babbd2ba9f
+timeCreated: 1494199056
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FBI Old Report
+  fontNames:
+  - FBI Old Report
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
