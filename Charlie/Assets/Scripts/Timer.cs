@@ -19,6 +19,7 @@ public class Timer : MonoBehaviour {
 
         string minutes = ((int)t / 60).ToString();
         string seconds = (t % 60).ToString("f6");
+        print(timerText);
 
         timerText.text = minutes + ":" + seconds;
 	}
